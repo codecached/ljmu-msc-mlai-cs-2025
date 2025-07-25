@@ -1,0 +1,142 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//LJMU MSc ML & AI//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:week20-mid-thesis-call-1@ljmu.edu
+DTSTAMP:20231120T090000Z
+DTSTART;VALUE=DATE:20251120
+DTEND;VALUE=DATE:20251127
+SUMMARY:Mid Thesis Call 1
+DESCRIPTION:Mid thesis call 1 for MSc Machine Learning & AI cohort
+END:VEVENT
+
+BEGIN:VEVENT
+UID:week21-mid-thesis-call-2@ljmu.edu
+DTSTAMP:20231127T090000Z
+DTSTART;VALUE=DATE:20251127
+DTEND;VALUE=DATE:20251204
+SUMMARY:Mid Thesis Call 2
+DESCRIPTION:Mid thesis call 2 for MSc Machine Learning & AI cohort
+END:VEVENT
+
+BEGIN:VEVENT
+UID:week22-mid-thesis-call-3@ljmu.edu
+DTSTAMP:20231204T090000Z
+DTSTART;VALUE=DATE:20251204
+DTEND;VALUE=DATE:20251211
+SUMMARY:Mid Thesis Call 3
+DESCRIPTION:Mid thesis call 3 for MSc Machine Learning & AI cohort
+END:VEVENT
+
+BEGIN:VEVENT
+UID:week23-mid-thesis-call-4@ljmu.edu
+DTSTAMP:20231211T090000Z
+DTSTART;VALUE=DATE:20251211
+DTEND;VALUE=DATE:20251218
+SUMMARY:Mid Thesis Call 4
+DESCRIPTION:Mid thesis call 4 for MSc Machine Learning & AI cohort
+END:VEVENT
+
+BEGIN:VEVENT
+UID:week24-mid-thesis-call-4-repeat@ljmu.edu
+DTSTAMP:20231218T090000Z
+DTSTART;VALUE=DATE:20251218
+DTEND;VALUE=DATE:20251225
+SUMMARY:Mid Thesis Call 4 (Repeat)
+DESCRIPTION:Mid thesis call 4 repeat week for MSc Machine Learning & AI cohort
+END:VEVENT
+
+BEGIN:VEVENT
+UID:week25-interim-report-submission@ljmu.edu
+DTSTAMP:20231225T090000Z
+DTSTART;VALUE=DATE:20251225
+DTEND;VALUE=DATE:20260101
+SUMMARY:Mid Thesis Interim Report Submission & Final Draft Review Week
+DESCRIPTION:Submit interim report and review final draft
+END:VEVENT
+
+BEGIN:VEVENT
+UID:week26-final-thesis-call-1@ljmu.edu
+DTSTAMP:20240101T090000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260108
+SUMMARY:Final Thesis Call 1
+DESCRIPTION:First final thesis call for MSc ML & AI cohort
+END:VEVENT
+
+BEGIN:VEVENT
+UID:week27-final-thesis-call-1-repeat@ljmu.edu
+DTSTAMP:20240108T090000Z
+DTSTART;VALUE=DATE:20260108
+DTEND;VALUE=DATE:20260115
+SUMMARY:Final Thesis Call 1 (Repeat)
+DESCRIPTION:Continuation of first final thesis call week
+END:VEVENT
+
+BEGIN:VEVENT
+UID:week28-final-thesis-call-2@ljmu.edu
+DTSTAMP:20240115T090000Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260122
+SUMMARY:Final Thesis Call 2
+DESCRIPTION:Second final thesis call week
+END:VEVENT
+
+BEGIN:VEVENT
+UID:week29-final-thesis-call-3@ljmu.edu
+DTSTAMP:20240122T090000Z
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260129
+SUMMARY:Final Thesis Call 3
+DESCRIPTION:Third final thesis call week
+END:VEVENT
+
+BEGIN:VEVENT
+UID:week30-final-thesis-call-3-repeat@ljmu.edu
+DTSTAMP:20240129T090000Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260205
+SUMMARY:Final Thesis Call 3 (Repeat)
+DESCRIPTION:Continuation of third final thesis call week
+END:VEVENT
+
+BEGIN:VEVENT
+UID:week31-final-thesis-call-4@ljmu.edu
+DTSTAMP:20240205T090000Z
+DTSTART;VALUE=DATE:20260205
+DTEND;VALUE=DATE:20260212
+SUMMARY:Final Thesis Call 4
+DESCRIPTION:Fourth final thesis call week
+END:VEVENT
+
+BEGIN:VEVENT
+UID:week32-final-thesis-call-5@ljmu.edu
+DTSTAMP:20240212T090000Z
+DTSTART;VALUE=DATE:20260212
+DTEND;VALUE=DATE:20260219
+SUMMARY:Final Thesis Call 5
+DESCRIPTION:Fifth final thesis call week
+END:VEVENT
+
+BEGIN:VEVENT
+UID:week33-final-thesis-call-5-repeat@ljmu.edu
+DTSTAMP:20240219T090000Z
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260226
+SUMMARY:Final Thesis Call 5 (Repeat)
+DESCRIPTION:Continuation of fifth final thesis call week
+END:VEVENT
+
+BEGIN:VEVENT
+UID:week34-final-submission@ljmu.edu
+DTSTAMP:20240226T090000Z
+DTSTART;VALUE=DATE:20260226
+DTEND;VALUE=DATE:20260305
+SUMMARY:Final Thesis & Video Presentation Submission
+DESCRIPTION:Submit final thesis and video presentation
+END:VEVENT
+
+END:VCALENDAR
